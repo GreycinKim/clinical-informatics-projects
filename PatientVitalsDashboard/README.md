@@ -37,7 +37,8 @@ An interactive clinical dashboard built with **Streamlit** to monitor patient vi
 
 ## Demo
 
-[![Watch the video](https://github.com/user-attachments/assets/c8864812-75ef-494e-b1ba-d230945392fb)](https://drive.google.com/file/d/1F53058ydTu6wv40uhVum9E_kC1Q1qqHC/view?usp=drive_link)
+[![Watch the video](![Screenshot 2025-04-17 232801](https://github.com/user-attachments/assets/a22af128-41db-4980-b23a-7af092c91e6e)
+)](https://drive.google.com/file/d/1F53058ydTu6wv40uhVum9E_kC1Q1qqHC/view?usp=drive_link)
    
 🧠 Clinical Use Cases
 

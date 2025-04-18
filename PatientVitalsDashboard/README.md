@@ -33,7 +33,15 @@ An interactive clinical dashboard built with **Streamlit** to monitor patient vi
    pip install streamlit pandas faker
    streamlit run app.py
    
+---
+
+## Demo
+
+https://drive.google.com/file/d/1F53058ydTu6wv40uhVum9E_kC1Q1qqHC/view?usp=sharing
+
+   
 🧠 Clinical Use Cases
+
 Morning rounds vitals check
 
 Nurse shift handoffs

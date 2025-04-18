@@ -1,0 +1,6 @@
+Patient ID,Name,Heart Rate (bpm),Blood Pressure,Oxygen Saturation (%),Temperature (F),Room Number
+P001,John Doe,102,145/90,95,98.6,101A
+P002,Sara Kim,88,130/85,99,97.2,102B
+P003,Alex Lee,110,160/100,89,100.1,103A
+P004,Maria Chan,75,120/80,97,98.4,104B
+P005,Tom Park,95,135/88,91,99.5,105A
